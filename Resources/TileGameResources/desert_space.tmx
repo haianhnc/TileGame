@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="desert_space" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tmw_desert_spacing.png" width="265" height="199"/>
+  <tile id="31">
+   <properties>
+    <property name="SpawnPoint" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="49" name="meta" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="../../../../../Download/TileGameResources/meta_tiles.png" width="67" height="34"/>
+  <tile id="0">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="backGround" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmdlOwzAQRc1OxQ4Sq5QGQUXZmv//O1wRS5bl5c7ixEI8nJc20/j4Tuwk7Ywx3R9nGWH7eS/83QfLYwN+Up4nOMeOZZfJHtNjCdZRWAhqTwQem8hxqb5G3BeJelf3VsmD0xO5/K8s1xlq5UEZg+MGONcaHJOGR01qerxbPmbw2CjmHNJ7tJIHZexTOeU8Di1HI8fM+ed4anNuuRi5VMpiDrgeNR3cPZvPU6Hm1nI3cs/0cL1J7cvWcJlS+7I1XKaUPDm8mt+9isuqgbna8iKs17z3GBrzWCco1Q0emh59hJIH4lDKkePie6TOGXOT9hVSR/EJ80BcqOOR1iE+qb5CXabwQPjKfIe4tOJRouSCXufIejWnS411dw4X7b6S7CHo3FP3AY6HVjaldZfS57n3a6i/xIeyh0y1f0hykY4nfG7z+Tbxd6QcejCTPoEkjxzUe9ecB9pfc3v4cypxoXogc0P10Jg7ige6frTsQVkDpc92jtg7oty6g3qg59fy0L52qe+QNT1S/1WF+zLHo1SPeuxbDibyiGURq/ePQz1OLWcFD61+imUReoTHaV8fg+HfR6fWp5ID4oH2ROjRGZ5HagwlV20Pf/ySbFJZpVxreMTQeMbJfT+VR220PNz/xVw+heco1XP2sH/q8AMkmScq
+  </data>
+ </layer>
+ <objectgroup name="Object" opacity="0.59">
+  <object x="973.41" y="615.029" visible="0"/>
+  <object x="1058.96" y="113.295" visible="0"/>
+  <object x="712.139" y="550.289" visible="0"/>
+  <object x="884.272" y="674.076" visible="0"/>
+  <object x="819.978" y="1043.61" visible="0"/>
+  <object x="819.978" y="1043.61" visible="0"/>
+  <object x="998.882" y="816.25" visible="0"/>
+  <object x="1054.79" y="726.798" visible="0"/>
+  <object x="1114.42" y="622.438" visible="0"/>
+  <object x="1207.6" y="473.351" visible="0"/>
+  <object x="1326.87" y="432.352" height="3.72717" visible="0"/>
+  <object x="1323.15" y="473.351" visible="0"/>
+  <object x="1095.79" y="741.707" visible="0"/>
+  <object x="1345.51" y="696.981" visible="0"/>
+  <object x="1431.23" y="629.892" visible="0"/>
+  <object x="1822.59" y="402.534" visible="0"/>
+  <object x="1263.51" y="372.717" visible="0"/>
+  <object x="805.069" y="324.264" visible="0"/>
+  <object x="805.069" y="324.264" visible="0"/>
+  <object x="462.169" y="428.625" height="3.72717" visible="0"/>
+ </objectgroup>
+ <layer name="Meta" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmEEWwyAIRHOS3CH3v1w2XbUaITMDaJ333LRl8Adsscfxv7oI8ajHW52fxVAEw2lcV2dZFMXxVjNxPO2BxdGrtaf+o35C9mf9HIMDUaW+QuThyGJR1VndI0r19jwTk2Wfs3DMLiVDxe/lrXXlmQ0ie9Mrxl2JJcQri6MVh84LT++NeojJ8Z2X5WfJoeDo5UL9FPGeuIgZJ4Ijwq8KB6rN0X4t8/7IjMuaE1R9Fc2iPh9RPFG/H2p55xpF/3tr29qH4lmpZyuVB+LJqm0FjuicCs9VOEY+mffzys84I//mqJV/NY6s/9tUHExvT36mT0Ztos6HmmWf818fdKE5tubQDb1CMqA=
+  </data>
+ </layer>
+</map>
