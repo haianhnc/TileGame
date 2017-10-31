@@ -75,10 +75,12 @@ There are two ways of building Android projects.
 
 ### Running project from Command Line
 
+```
     $ cd cocos2d-x/samples/Cpp/TestCpp/proj.android/
     $ export NDK_ROOT=/path/to/ndk
     $ ./build_native.sh
     $ ant debug install
+```
 
 If the last command results in sdk.dir missing error then do: 
 
