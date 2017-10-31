@@ -51,10 +51,6 @@ bool HelloWorld::init()
         CCLOG("tile map has no objects object layer");
         return false;
     }
-//    auto spawnPoint = Dictionary::createWithDictionary(objectGroup->objectNamed("SpawnPoint"))
-//    CCDictionary* spawnPoint = objectGroup->objectNamed("wingPoint");
-//    int x = ((std::string)*spawnPoint->valueForKey("x")).intValue();
-//    int y = ((std::string)*spawnPoint->valueForKey("y")).intValue();
     float x = 0;
     float y = visibleSize.height;
     
